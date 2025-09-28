@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+.vscode/
+dist/
+medicaltica-landing/
+lia-landing/
+lia-landing(main)/
+landingpage/
